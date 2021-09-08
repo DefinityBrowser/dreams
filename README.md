@@ -6,7 +6,3 @@
 This repository was, at one point, planning for this browser. It's time to finally make it a reality.
 
 Welcome to **Definity Browser**. More information soon.
-
-## Notices
-### Source Work
-A lot of this source code is from **[brave/brave-core](https://github.com/brave/brave-core)** and **[chromium/chromium](https://github.com/chromium/chromium)**!
